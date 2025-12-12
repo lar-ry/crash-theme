@@ -1,0 +1,21 @@
+{
+  "name": "crash-theme",
+  "displayName": "Crash Theme",
+  "description": "The theme is crash",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Crash Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/crash-theme-color-theme.json"
+      }
+    ]
+  }
+}
