@@ -2,6 +2,8 @@
   "name": "crash-theme",
   "displayName": "Crash Theme",
   "description": "The theme is crash",
+  "repository": "https://github.com/lar-ry/crash-theme",
+  "publisher": "larry-lan",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.107.0"
