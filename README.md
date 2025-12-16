@@ -17,17 +17,17 @@
 
 # Crash Theme
 
-One crash, one look - 怦然心动，惊鸿一瞥
+One look, one crash - 惊鸿一瞥, 怦然心动
 
 A zero-dark background, based on Dark Modern (Default Dark Modern).
 
-基于 Dark Modern（Default Dark Modern）打造的全黑背景。
+基于现代深色 (Default Dark Modern) 打造的全黑背景。
 
 The following themes are currently supported:
 
 当前支持的主题如下：
 
-- Crash Default
-  ![crash-color-theme](https://github.com/lar-ry/crash-theme/raw/HEAD/assets/crash-color-theme.png)
-- Crash Green
+- Crash Dark - 心动深色
+  ![crash-dark-color-theme](https://github.com/lar-ry/crash-theme/raw/HEAD/assets/crash-dark-color-theme.png)
+- Crash Green - 心动绿色
   ![crash-green-color-theme](https://github.com/lar-ry/crash-theme/raw/HEAD/assets/crash-green-color-theme.png)

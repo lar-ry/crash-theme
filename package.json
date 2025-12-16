@@ -1,11 +1,11 @@
 {
   "name": "crash-theme",
   "displayName": "Crash Theme",
-  "description": "One crash, one look - 怦然心动，惊鸿一瞥",
+  "description": "%description%",
   "repository": "https://github.com/lar-ry/crash-theme",
   "publisher": "larry-lan",
   "icon": "assets/logo.png",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -15,13 +15,15 @@
   "contributes": {
     "themes": [
       {
-        "label": "Crash Default",
+        "label": "%crash_dark%",
         "uiTheme": "vs-dark",
-        "path": "./themes/crash-color-theme.json"
+        "description": "%crash_dark_description%",
+        "path": "./themes/crash-dark-color-theme.json"
       },
       {
-        "label": "Crash Green",
+        "label": "%crash_green%",
         "uiTheme": "vs-dark",
+        "description": "%crash_green_description%",
         "path": "./themes/crash-green-color-theme.json"
       }
     ]
